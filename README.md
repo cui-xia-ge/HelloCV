@@ -7,6 +7,7 @@
     https://www.yuque.com/shuijiaoge/ok1b6c/dw8bkn1wdeo8eb8e
 ## week2
   ### 第二周实践任务 
+    提交路径：源文件CryptoTool.cpp等在main；CMakeList.txt在master
     https://www.yuque.com/shuijiaoge/ok1b6c/yevtroe01llgrgu5
   ### CMake笔记
     https://www.yuque.com/shuijiaoge/ok1b6c/osqbag8p7v8z6wem

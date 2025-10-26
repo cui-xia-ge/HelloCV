@@ -16,5 +16,6 @@
 ## week3
   ### 第三周实践任务
     详见语雀链接https://www.yuque.com/shuijiaoge/ok1b6c/whkc8g1f0l034k8u
+    result.avi与源代码在main中
   ### OpenCV笔记
     语雀链接https://www.yuque.com/shuijiaoge/ok1b6c/qlg02p29hemouhtp

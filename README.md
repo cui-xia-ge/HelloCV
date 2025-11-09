@@ -19,3 +19,6 @@
     result.avi与源代码在main中
   ### OpenCV笔记
     语雀链接https://www.yuque.com/shuijiaoge/ok1b6c/qlg02p29hemouhtp
+## week 4
+  ### ROS2语雀链接https://www.yuque.com/shuijiaoge/ok1b6c/ou449l925yxa3qd4
+  ### gazebo语雀链接https://www.yuque.com/shuijiaoge/ok1b6c/ti1xi8dadmz1nmzz
